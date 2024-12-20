@@ -1,0 +1,10 @@
+{
+    "TrueLogin": {
+        "username": "masipicari.mp@gmail.com",
+        "password": "Masi"
+    },
+  "BadLogin": {
+    "username": "user",
+    "password": "pass"
+  }
+}
